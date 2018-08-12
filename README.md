@@ -1,4 +1,4 @@
-# fork-
+# fork()函数的使用方法
 转载Jason314
 linux中fork（）函数详解（原创！！实例讲解）
 置顶
